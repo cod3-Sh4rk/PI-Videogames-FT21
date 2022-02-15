@@ -1,0 +1,35 @@
+.nav{
+    height: 50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:1rem;
+    background-color: #c3c3c3;
+    background-image: url("https://st3.depositphotos.com/5490626/32004/i/600/depositphotos_320048884-stock-photo-hexagonal-background-for-design.jpg");
+}
+
+.buttoncreate{
+    background-color: #7f2ccc;
+    border: 2px solid #131212;
+    border-radius: 5px;
+    color: #20252a;
+    font-size: 10px;
+    font-family: 'Lucida Handwriting', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    padding: 5px;
+    
+    width: 120px;
+    cursor: pointer;
+
+}
+.buttonhome{
+    background-color: #7f2ccc;
+    border: 1px solid #131212;
+    border-radius: 5px;
+    color: #20252a;
+    font-size: 10px;
+    font-family: 'Lucida Handwriting', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    padding: 5px;
+    
+    width: 50px;
+    cursor: pointer;
+}

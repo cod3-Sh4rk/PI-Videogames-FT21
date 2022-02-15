@@ -1,0 +1,13 @@
+.filters{
+height: 23px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+}
+.list{
+color: white;
+margin-top: 30px;    
+}
